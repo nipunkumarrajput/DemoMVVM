@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Application</string>
+
+    <string name="invalid_email">Not a valid email id</string>
+    <string name="invalid_password">Password must be atleast 6 characters</string>
+    <string name="password_not_match">Password doesn\'t match</string>
+</resources>

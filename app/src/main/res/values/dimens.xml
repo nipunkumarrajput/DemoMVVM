@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_15">15dp</dimen>
+    <dimen name="size_20">20dp</dimen>
+    <dimen name="size_25">25dp</dimen>
+    <dimen name="size_30">30dp</dimen>
+    <dimen name="size_35">35dp</dimen>
+    <dimen name="size_40">40dp</dimen>
+    <dimen name="size_44">44dp</dimen>
+    <dimen name="size_48">48dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_7">7dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_5">5dp</dimen>
+    <dimen name="size_3">3dp</dimen>
+    <dimen name="size_12">12dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+
+    <bool name="isTablet">false</bool>
+</resources>
